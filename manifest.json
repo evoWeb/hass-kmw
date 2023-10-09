@@ -1,6 +1,7 @@
 {
 	"domain": "evoweb-kmw",
 	"name": "evoweb-kmw",
+	"description": "Integration providing a WeatherEntity compatible data from kachelmannweather.com. Needs a key to access the API"
 	"version": "1.0.0",
 	"documentation": "https://github.com/evoWeb/hass-kmw",
 	"issue_tracker": "https://github.com/evoWeb/hass-kmw/issues",
