@@ -1,0 +1,16 @@
+{
+	"domain": "evoweb-kmw",
+	"name": "evoweb-kmw",
+	"version": "1.0.0",
+	"documentation": "https://github.com/evoWeb/hass-kmw",
+	"issue_tracker": "https://github.com/evoWeb/hass-kmw/issues",
+	"dependencies": [],
+	"config_flow": false,
+	"iot_class": "cloud_polling",
+	"codeowners": [
+		"@evoWeb"
+	],
+	"requirements": [
+		"homeassistant>=2023.10.0"
+	]
+}
